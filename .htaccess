@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(pageview.php)$">
+<FilesMatch "^(page-view.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
